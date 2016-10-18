@@ -8,4 +8,3 @@
 					(remove-alist-all s (cdr l)))))))
 
 
-(remove-alist-all 'a '((b . c) (a . 1) (c . e) (a . 2)))

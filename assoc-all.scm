@@ -7,5 +7,3 @@
 					(assoc-all s (cdr l)))
 				(assoc-all s (cdr l))))))
 			 
-
-(assoc-all 'a '((b . c) (a . 1) (c . e) (a . 2)))
